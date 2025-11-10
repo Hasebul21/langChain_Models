@@ -1,4 +1,6 @@
 # To activate the virtual environment on macOS/Linux
+python3 -m venv venv
+
 # Run this command in your terminal
 source venv/bin/activate
 
